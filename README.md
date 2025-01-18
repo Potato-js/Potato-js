@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Zach and I'm a back-end developer, from Toronto</h2>
+<h2 align="center">Hi 👋! My name is Zach and I'm a back-end developer, from Toronto</h2>
 
 ###
 
@@ -52,7 +52,6 @@
 
 ###
 
-<h2 align="left">Current Projects:</h2>
+<h3 align="left">Current Projects:</h3>
 
 - [weeb-bot](https://github.com/Potato-js/weeb-bot): A Discord-Bot filled with many commands + a dashboard.
-- [Popup-Flash-Cards](https://github.com/Potato-js/Popup-Flash-Cards): A Windows Program that forces you to answer your flash cards.

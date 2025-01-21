@@ -36,10 +36,10 @@
 ###
 
 <div align="left">
-  <a href="instagram.com/weeaboo.js" target="_blank">
+  <a href="https://instagram.com/weeaboo.js" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https:// discord.com/users/880191917764268112" target="_blank">
+  <a href="https://discord.com/users/880191917764268112" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
@@ -55,3 +55,4 @@
 <h3 align="left">Current Projects:</h3>
 
 - [weeb-bot](https://github.com/Potato-js/weeb-bot): A Discord-Bot filled with many commands + a dashboard.
+- [Popup-FlashCards](https://github.com/Potato-js/Popup-Flashcards): A Java program that pops up random flashcards and forces you to answer.
